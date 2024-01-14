@@ -8,7 +8,7 @@ script_install_node_zora
 
 
 ```
-apt install git -y && git clone https://github.com/solotop999/script_install_node_zora.git && cd script_install_node_zora && chmod +x zora.sh && ./zora.sh
+apt install curl dos2unix -y && curl -O https://raw.githubusercontent.com/solotop999/script_install_node_zora/main/zora.sh && chmod +x zora.sh && dos2unix zora.sh && ./zora.sh
 ```
 
 ### Video Setup:
