@@ -18,6 +18,10 @@ apt install git -y && git clone https://github.com/solotop999/script_install_nod
 
 
 ### Change RPC:
+
+Error: CU Limit on Alchemy
+![image](https://github.com/solotop999/script_install_node_zora/assets/24671262/307fc464-9bca-43ac-b7fe-57efce8f141b)
+
 - Create account and get RPC at: [Alchemy](https://alchemy.com/?r=DI0NjIwMzMyNzg3N)
 
 - Change this link to your RPC link:
